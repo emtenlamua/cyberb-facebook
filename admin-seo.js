@@ -294,7 +294,7 @@ function initEditor(P, kind) {
     const d = $("#" + P + "_desc").value.trim();
     const slug = $("#" + P + "_slug").value.trim();
     const og = $("#" + P + "_og").value.trim();
-    const base = (DB.seo.canonicalBase || "https://emtenlamua.github.io/pd12682-phone-store/").replace(/\/?$/, "/");
+    const base = (DB.seo.canonicalBase || "https://emtenlamua.github.io/cyberb-facebook/").replace(/\/?$/, "/");
     const fallbackTitle = label(it);
     const url = slug ? base + (kind === "sp" ? "san-pham/" : "bai-viet/") + slug
       : base + (kind === "sp" ? "product.html?id=" : "post.html?id=") + it.id;

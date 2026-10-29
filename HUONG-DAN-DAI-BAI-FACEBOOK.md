@@ -1,4 +1,4 @@
-# BÀI ĐĂNG FANPAGE FACEBOOK — CYBER B / PD12682
+# BÀI ĐĂNG FANPAGE FACEBOOK — CYBER B / Cyber B
 
 > Web: **https://emtenlamua.github.io/cyberb-facebook/**
 > Fanpage: https://www.facebook.com/profile.php?id=61595723233897
@@ -16,7 +16,7 @@
 
 **Mẹo:** Để Facebook hiện preview card đẹp, bạn copy link rồi **paste vào ô link preview** khi đăng (đừng gõ tay). Nếu Facebook không hiện preview, dùng link rút gọn từ bitly.com.
 
-**Ảnh nên dùng:** `img/og-cover.png` (banner PD12682 chính hãng, 1200×630) — tải tại:
+**Ảnh nên dùng:** `img/og-cover.png` (banner Cyber B chính hãng, 1200×630) — tải tại:
 `https://emtenlamua.github.io/cyberb-facebook/img/og-cover.png`
 
 ---
@@ -163,7 +163,7 @@ https://emtenlamua.github.io/cyberb-facebook/sp-tai-nghe-bluetooth-sony-wh-1000x
 
 🛡️ **BẢO HÀNH CHÍNH HÃNG 12 THÁNG – AN TÂM MUA SẮM** 🛡️
 
-Mỗi sản phẩm tại **PD12682 / Cyber B** đều được bảo hành chính hãng **12 tháng**.
+Mỗi sản phẩm tại **Cyber B** đều được bảo hành chính hãng **12 tháng**.
 
 ✅ Bảo hành chính hãng 12 tháng
 ✅ Đổi trả 1-1 trong 7 ngày
@@ -267,7 +267,7 @@ https://emtenlamua.github.io/cyberb-facebook/bv-7-buoc-kiem-tra-may-khi-nhan-han
 Ảnh nên có kích thước **1200 × 630 px** (tỷ lệ Facebook preview chuẩn).
 
 **Ảnh có sẵn trong repo:**
-- `img/og-cover.png` — banner tổng quan (PD12682 Phone Store)
+- `img/og-cover.png` — banner tổng quan (Cyber B Phone Store)
 
 **Tải ảnh sản phẩm:**
 ```

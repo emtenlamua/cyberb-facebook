@@ -99,9 +99,9 @@ def make(name, kicker, title, sub, bullets, badge_text=None, img_rel=None, price
     d = ImageDraw.Draw(img)
 
     # brand
-    d.text((70, 52), 'PD', font=font(38, True), fill=WHITE)
-    w12682 = font(38, True).getlength('PD')
-    d.text((70 + w12682, 52), '12682', font=font(38, True), fill=ORANGE)
+    f_brand = font(38, True)
+    d.text((70, 52), 'Cyber', font=f_brand, fill=WHITE)
+    d.text((70 + f_brand.getlength('Cyber'), 52), 'B', font=f_brand, fill=ORANGE)
     d.text((72, 98), 'C Y B E R   B   •   P H O N E   S T O R E', font=font(15, True), fill=MUTED)
 
     y = 150

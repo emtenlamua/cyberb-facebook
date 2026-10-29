@@ -189,7 +189,7 @@ https://emtenlamua.github.io/cyberb-facebook/sp-tai-nghe-bluetooth-sony-wh-1000x
 ```
 🛡️ BẢO HÀNH CHÍNH HÃNG 12 THÁNG – AN TÂM MUA SẮM 🛡️
 
-Mỗi sản phẩm tại PD12682 / Cyber B đều được bảo hành chính hãng 12 tháng.
+Mỗi sản phẩm tại Cyber B đều được bảo hành chính hãng 12 tháng.
 
 ✅ Bảo hành chính hãng 12 tháng
 ✅ Đổi trả 1-1 trong 7 ngày
