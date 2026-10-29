@@ -304,7 +304,7 @@ Mỗi bài có 2 backlink:
 | GitHub username | emtenlamua |
 | GitHub email | quanhi1805@gmail.com |
 | GitHub repo | emtenlamua/cyberb-facebook |
-| Admin web | pd12881 / admin123 |
+| Admin web | pd12881@gmail.com / admin123 |
 | User web | user@gmail.com / 123456 |
 | Hotline | 079 220 3565 |
 | Email liên hệ | quanhi1805@gmail.com |
