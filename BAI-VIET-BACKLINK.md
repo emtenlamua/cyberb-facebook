@@ -7,7 +7,7 @@ Mục đích: tạo backlink từ Blogger hoặc WordPress về website và fanp
 
 | Loại | Giá trị |
 |---|---|
-| Website | `https://levuduy010307-star.github.io/cyberb/` |
+| Website | `https://emtenlamua.github.io/cyberb/` |
 | Fanpage | `https://www.facebook.com/profile.php?id=61595723233897` |
 | Hotline | `079 220 3565` |
 
@@ -61,7 +61,7 @@ không thể bảo hành chính hãng. Phiếu bảo hành phải ghi đúng s�
 trước khi trả tiền thì nơi đó đáng tin hơn</strong>. Cửa hàng từ chối cho bóc seal kiểm tra,
 hoặc giục bạn chuyển khoản trước khi xem máy, là dấu hiệu nên bỏ qua.</p>
 
-<p>Tại <a href="https://levuduy010307-star.github.io/cyberb/">Cyber B</a>,
+<p>Tại <a href="https://emtenlamua.github.io/cyberb/">Cyber B</a>,
 khách được kiểm tra máy trước khi thanh toán, bảo hành 12 tháng và đổi trong 7 ngày nếu lỗi
 do nhà sản xuất. Danh sách máy kèm giá và tồn kho thật được cập nhật tại website.</p>
 
@@ -124,7 +124,7 @@ Nếu bạn không muốn tìm hiểu nhiều và chỉ cần một máy dùng t
 </ul>
 
 <p>Giá và tồn kho thật của cả 5 máy được cập nhật tại
-<a href="https://levuduy010307-star.github.io/cyberb/">website Cyber B</a>
+<a href="https://emtenlamua.github.io/cyberb/">website Cyber B</a>
 — có lọc theo danh mục Flagship, Cận cao cấp, Tầm trung, Phổ thông, Giá rẻ.</p>
 
 <p>Muốn được tư vấn theo đúng nhu cầu và ngân sách:
@@ -189,7 +189,7 @@ Nếu thu nhập của bạn không đều, trả góp dài hạn có thể thà
 <p>Lấy tổng số tiền phải trả (gốc + mọi loại phí) chia cho số tháng.
 Nếu con số đó vượt quá 15% thu nhập hằng tháng của bạn, nên chọn máy rẻ hơn.</p>
 
-<p>Tại <a href="https://levuduy010307-star.github.io/cyberb/">Cyber B</a>,
+<p>Tại <a href="https://emtenlamua.github.io/cyberb/">Cyber B</a>,
 giá niêm yết trên website là giá trả thẳng, không cộng phí ẩn. Bạn có thể xem trước
 tổng tiền từng máy rồi mới quyết định có trả góp hay không.</p>
 

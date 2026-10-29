@@ -3,7 +3,7 @@
 Website bán điện thoại di động viết bằng HTML/CSS/JavaScript thuần, dữ liệu lưu trong `db.json`
 qua `json-server`. Bài tập môn WEB2053.
 
-🔗 **Xem online: https://levuduy010307-star.github.io/cyberb/**
+🔗 **Xem online: https://emtenlamua.github.io/cyberb/**
 
 ---
 
@@ -133,7 +133,7 @@ email-marketing/danh-sach-10-email.csv Danh sách 10 email để import
 
 1. Kiểm tra `json-server` có đang chạy không: mở http://localhost:3000/products, phải thấy JSON.
    Nếu không thấy → chạy `npm start` (hoặc `npx json-server --watch db.json --port 3000`).
-2. Nếu đang mở **bản GitHub Pages** (`levuduy010307-star.github.io/cyberb/`) thì
+2. Nếu đang mở **bản GitHub Pages** (`emtenlamua.github.io/cyberb/`) thì
    **không lưu được** — Pages chỉ chạy file tĩnh, không có server để ghi `db.json`.
    Muốn thêm/sửa sản phẩm phải chạy local.
 3. Thêm bằng local xong, muốn **bản online** cũng thấy sản phẩm mới thì phải xuất lại

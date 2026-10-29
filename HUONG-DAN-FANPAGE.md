@@ -1,7 +1,7 @@
 # HƯỚNG DẪN FANPAGE — ĐỦ 4 YÊU CẦU CỦA ĐỀ
 
 Fanpage: https://www.facebook.com/profile.php?id=61595723233897
-Website: https://levuduy010307-star.github.io/cyberb/
+Website: https://emtenlamua.github.io/cyberb/
 
 ---
 
@@ -32,7 +32,7 @@ giám khảo sẽ trừ điểm.
 3. Dán nội dung dưới đây vào ô **Tiểu sử** (Bio) — ô ngắn, tối đa 255 ký tự:
 
 ```
-Điện thoại chính hãng, giá tốt, bảo hành 12 tháng. Xem giá và tồn kho tại: https://levuduy010307-star.github.io/cyberb/
+Điện thoại chính hãng, giá tốt, bảo hành 12 tháng. Xem giá và tồn kho tại: https://emtenlamua.github.io/cyberb/
 ```
 
 4. Dán nội dung dưới đây vào ô **Giới thiệu** (About / Câu chuyện):
@@ -49,7 +49,7 @@ Apple, Samsung, Xiaomi, OPPO, vivo, realme, Sony, JBL, Anker.
 ▸ Đổi máy trong 7 ngày nếu lỗi do nhà sản xuất
 
 🌐 Xem toàn bộ sản phẩm và giá tại website:
-https://levuduy010307-star.github.io/cyberb/
+https://emtenlamua.github.io/cyberb/
 
 📞 Hotline: 079 220 3565
 📧 Email: quanhi1805@gmail.com
@@ -57,7 +57,7 @@ https://levuduy010307-star.github.io/cyberb/
 ```
 
 5. Ở mục **Liên hệ / Website**, điền:
-   - Website: `https://levuduy010307-star.github.io/cyberb/`
+   - Website: `https://emtenlamua.github.io/cyberb/`
    - Số điện thoại: `079 220 3565`
    - Email: `quanhi1805@gmail.com`
 
@@ -67,10 +67,10 @@ https://levuduy010307-star.github.io/cyberb/
 
 1. Vào trang → bấm **+ Thêm nút** (hoặc **Chỉnh sửa trang → Nút hành động**).
 2. Chọn **Tìm hiểu thêm** (Learn more) hoặc **Mua ngay** (Shop now).
-3. Dán link website: `https://levuduy010307-star.github.io/cyberb/`
+3. Dán link website: `https://emtenlamua.github.io/cyberb/`
 4. Lưu.
 
-> **Lưu ý:** Facebook chỉ nhận link khi có đủ `https://`. Nếu gõ `levuduy010307-star.github.io`
+> **Lưu ý:** Facebook chỉ nhận link khi có đủ `https://`. Nếu gõ `emtenlamua.github.io`
 > thì Facebook coi là chữ thường, không thành link, không tính là backlink.
 
 ---
@@ -180,7 +180,7 @@ Mở `https://adsmanager.facebook.com` → đăng nhập bằng tài khoản qu�
    - **Văn bản chính**: dán nguyên caption của **Bài 4** trong `BAI-DANG-FANPAGE.md`
    - **Hình ảnh**: tải ảnh sản phẩm lên (link ảnh có ghi trong file bài đăng)
 4. **Nút kêu gọi hành động**: chọn **Tìm hiểu thêm** (Learn more).
-5. **Đường dẫn website**: `https://levuduy010307-star.github.io/cyberb/product.html?id=1`
+5. **Đường dẫn website**: `https://emtenlamua.github.io/cyberb/product.html?id=1`
 6. **Màn hình duyệt trước**: kiểm tra bên phải, xem ảnh và chữ có bị cắt không.
 7. Bấm **Xuất bản** (Publish).
 
@@ -207,7 +207,7 @@ Vào Ads Manager → cột kết quả sẽ hiện:
 
 ## 7. CHECKLIST TRƯỚC KHI NỘP
 
-- [ ] Fanpage đã có **≥ 6 bài quảng cáo sản phẩm**, mỗi bài có link `https://levuduy010307-star.github.io/...`
+- [ ] Fanpage đã có **≥ 6 bài quảng cáo sản phẩm**, mỗi bài có link `https://emtenlamua.github.io/...`
 - [ ] Mỗi bài có **≥ 30 lượt like** (chụp màn hình từng bài)
 - [ ] **Phần giới thiệu** đã dán nội dung có link website (chụp màn hình tab Giới thiệu)
 - [ ] Nút hành động trên trang trỏ về website (nếu làm được)
@@ -219,7 +219,7 @@ Vào Ads Manager → cột kết quả sẽ hiện:
 
 ```
 Fanpage: https://www.facebook.com/profile.php?id=61595723233897
-Website: https://levuduy010307-star.github.io/cyberb/
+Website: https://emtenlamua.github.io/cyberb/
 
 1. iPhone 16 Pro Max 256GB   — <dán link bài viết>  — <số like>
 2. Xiaomi 14T Pro 256GB      — <dán link bài viết>  — <số like>

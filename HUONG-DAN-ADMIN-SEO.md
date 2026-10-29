@@ -2,7 +2,7 @@
 
 Trang cần mở: **`admin-seo.html`**
 
-- Bản online: https://levuduy010307-star.github.io/cyberb/admin-seo.html
+- Bản online: https://emtenlamua.github.io/cyberb/admin-seo.html
 - Từ trang quản trị: vào `admin.html` → bấm **SEO & Facebook** trên thanh menu
 - Mở thẳng từng tab bằng đường dẫn: `admin-seo.html#sp`, `#bv`, `#ht`, `#fb`
 
