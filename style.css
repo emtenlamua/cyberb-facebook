@@ -456,13 +456,13 @@ nav a.on{color:var(--teal)}
 .promo-inner span:first-child{border-left:0;padding-left:0}
 .promo-inner svg{width:14px;height:14px;flex:0 0 14px;fill:none;stroke:var(--teal);stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
 
-.hero{max-width:none;margin:0;border-radius:0;padding:0;display:block;box-shadow:none;background:linear-gradient(112deg,#b8410b 0%,#ee6f16 36%,#f99a35 76%,#ffc072 100%)}
+.hero{max-width:none;margin:0;border-radius:0;padding:0;display:block;box-shadow:none;background:linear-gradient(112deg,#053f3a 0%,#0d9488 34%,#14b8a6 72%,#5eead4 100%)}
 .hero:focus-visible{box-shadow:inset 0 0 0 3px #ffffff80}
 .hero-slide{flex:0 0 100%;min-width:100%;display:grid;grid-template-columns:1.08fr .92fr;gap:30px;align-items:center;padding:38px max(5%,calc((100% - 1180px)/2)) 90px;min-height:372px;pointer-events:none;position:relative}
 .hero-slide.is-active{pointer-events:auto}
 .hero h1{color:#fff;font-size:clamp(30px,4.1vw,50px);line-height:1.06;margin:14px 0 12px}
-.hero h1 span{background:linear-gradient(100deg,#fff 10%,#ffe3c8 90%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
-.hero-badge{background:#ffffff2e;border:1px solid #ffffff57;color:#fff}
+.hero h1 span{background:linear-gradient(100deg,#fff 10%,#ccfbf1 90%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+.hero-badge{background:#ffffff26;border:1px solid #ffffff4d;color:#fff}
 .hero-badge .dot{background:#fff;box-shadow:0 0 0 4px #ffffff45}
 .hero-sub{color:#fff1e4;font-size:14.5px;line-height:1.6;margin:0 0 18px;max-width:440px}
 .hero-price{display:flex;align-items:baseline;gap:12px;margin:0 0 22px}
@@ -472,7 +472,7 @@ nav a.on{color:var(--teal)}
 .hero .btn:hover{background:#fff4e9}
 .hero .btn.ghost{background:#ffffff1f;border:1.5px solid #ffffff8c;color:#fff;box-shadow:none}
 .hero .btn.ghost:hover{background:#ffffff33}
-.hero-arrow{background:#fff;color:#b8410b;border:0;box-shadow:0 12px 28px -12px #00000059;opacity:1;width:44px;height:44px}
+.hero-arrow{background:#fff;color:#0d9488;border:0;box-shadow:0 12px 28px -12px #00000059;opacity:1;width:44px;height:44px}
 .hero-arrow:hover{background:#fff;opacity:1;transform:translateY(-50%) scale(1.08)}
 .hero-arrow.prev{left:18px}
 .hero-arrow.next{right:18px}
