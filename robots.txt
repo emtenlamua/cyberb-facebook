@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://emtenlamua.github.io/cyberb/sitemap.xml
+# Trang quan tri - khong cho Google index
+Disallow: /admin.html
+Disallow: /admin-seo.html
+Disallow: /login.html
+
+Sitemap: https://emtenlamua.github.io/cyberb-facebook/sitemap.xml
